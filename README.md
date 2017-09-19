@@ -1,5 +1,5 @@
 # PostHopper
-Javascript function for animated jumping between posts in a page using IntersectionObserver. Check out the [demo page](https://jzumun.github.io/post-hopper/demo/) for an example.
+Javascript function for animated scrolling between elements in a web page using IntersectionObserver. Check out the [demo page](https://jzumun.github.io/post-hopper/demo/) for an example.
 
 # Usage
 `PostHopper` can be used both in node and in the browser.
