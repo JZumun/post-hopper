@@ -2,7 +2,7 @@
   "name": "post-hopper",
   "version": "0.1.1",
   "description": "Javascript Function for scrolling between elements in a web page using IntersectionObserver",
-  "main": "dist/index.js",
+  "main": "dist/post-hopper.js",
   "repository": "JZumun/post-hopper",
   "author": "John Reinier Bulaong <rein.bulaong@yahoo.com>",
   "license": "MIT",
